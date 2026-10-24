@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/xentra-react",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/xentra-react",
+  "usageRepository": "https://github.com/x12i-sdk/xentra-react",
+  "sourceRepository": "https://github.com/x12i/xentra",
+  "sourceCommit": "004372e6695509bf2e95d2e4e53d4534e81dd312",
+  "sourcePackageDirectory": "packages/react",
+  "example": {
+    "title": "Render an account-scoped permission gate with a pending fallback",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:55:26.718539+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "40e02e2c7abde73d91a86fcc346e4935d43eda0ece79b74379ee8df5afa829f0",
+    "manifestSha256": "0b154c6f46c010b23f2b9a69a3621e9e3b6a1759d55533c4ef7e666aa0ec33a4"
+  },
+  "validationFiles": {
+    "src/index.mjs": "40e02e2c7abde73d91a86fcc346e4935d43eda0ece79b74379ee8df5afa829f0"
+  }
+}
